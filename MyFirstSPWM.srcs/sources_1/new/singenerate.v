@@ -30,6 +30,10 @@ module singenerate(
     begin
         cnt <= cnt + 1'd1;
     end
-    assign address = cntl
-    
+    assign address = cnt;
+    dist_mem_gen_0 my_ram (
+      .a(address),      // input wire [8 : 0] a
+      .clk(CLK_100K),  // input wire clk
+      .spo(sinwave)  // output wire [7 : 0] spo
+    );
 endmodule
