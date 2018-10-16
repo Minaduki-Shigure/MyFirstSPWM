@@ -1,0 +1,17 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.srcs/sources_1/new/clkgenerate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkgenerate
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.srcs/sources_1/new/singenerate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module singenerate
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.srcs/sources_1/new/spwm_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spwm_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.srcs/sources_1/new/spwmgenerate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spwmgenerate
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.srcs/sources_1/new/triwavegenerate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module triwavegenerate
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.srcs/sim_1/new/spwm_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spwm_tb
+WARNING: [VRFC 10-1771] potential always loop found [D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.srcs/sim_1/new/spwm_tb.v:29]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstSPWM/MyFirstSPWM.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
